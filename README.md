@@ -1,2 +1,3 @@
 # R_Programming
-Assignment 3
+
+My first attempt of assignment 3 for the course in R Programming.  
